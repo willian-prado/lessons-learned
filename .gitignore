@@ -3,3 +3,7 @@ node_modules/
 cypress/reports
 cypress/screenshots
 .DS_Store
+.trybe/
+cypress/
+cypress.json
+reporter.json
