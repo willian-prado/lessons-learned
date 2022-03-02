@@ -10,7 +10,7 @@ introdutórios de HTML e CSS.
 Desevolver um site que contenha uma série de informações sobre o que foi aprendido na Trybe ao longo de três blocos. \
 O site deve estar com elementos posicionados e estilizados e, além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
 
-Como habilidades desenvolvidas nesse trabalho, temos:
+**Principais habilidades desenvolvidas nesse trabalho:**
 
 * Utilizar _HTML_ para construir páginas WEB.
 * Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
