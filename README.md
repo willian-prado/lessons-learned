@@ -1,9 +1,6 @@
 ## Projeto Lessons Learned
 
-Primeiro projeto do módulo de Fundamentos do curso de desenvolvimento web da Trybe. \
-Aqui pudemos aplicar os conhecimentos adquiridos em duas semanas de curso. \
-Neste período, aprendemos um pouco sobre como utilizar as ferramentas Git e GitHub e conceitos
-introdutórios de HTML e CSS.
+> Primeiro projeto do módulo de Fundamentos do curso da Trybe.
 
 **Objetivo do projeto**
 
