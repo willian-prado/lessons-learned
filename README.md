@@ -1,6 +1,6 @@
 ## Projeto Lessons Learned
 
-> Primeiro projeto do módulo de Fundamentos do curso da Trybe.
+> Primeiro projeto do módulo de Fundamentos do curso de desenvolvimento web da Trybe.
 
 **Objetivo do projeto**
 
