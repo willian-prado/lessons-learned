@@ -2,6 +2,10 @@
 
 > Primeiro projeto do módulo de Fundamentos do curso de desenvolvimento web da Trybe.
 
+**Contexto**
+
+Primeiro projeto desenvolvido no curso, aqui precisamos aplicar os conhecimentos adquiridos em aproximadamente duas semanas de estudos.
+
 **Objetivo do projeto**
 
 Desenvolver um site que contenha uma série de informações sobre o que foi aprendido na Trybe ao longo de três blocos. \
