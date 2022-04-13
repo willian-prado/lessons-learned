@@ -13,9 +13,13 @@ O site deve estar com elementos posicionados e estilizados e, além disto, dever
 * Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
 * Utilizar _CSS_ para adicionar estilo e posicionar elementos.
 
+**Tecnologias utilizadas**
+- <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" title="HTML5" title="HTML" align="center" height="35" /> - HTML </a>
+- <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" title="CCS3" title="CSS" align="center" height="35"/> - CSS </a>
+
 ---
 
-### Lista de requisitos propostos:
+### Lista de requisitos propostos pela Trybe:
 
 #### Obrigatórios
 
