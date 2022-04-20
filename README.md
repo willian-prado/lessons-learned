@@ -4,7 +4,7 @@
 
 **Contexto**
 
-Este é o projeto desenvolvido no curso, aqui precisamos aplicar os conhecimentos adquiridos em aproximadamente duas semanas de estudos.
+Este é o primeiro projeto desenvolvido no curso, aqui precisamos aplicar os conhecimentos adquiridos em aproximadamente duas semanas de estudos.
 
 **Objetivo do projeto**
 
