@@ -86,4 +86,6 @@ Modifique o estilo da sua tipografia alterando o tamanho de letra, a cor, o espa
 
 Adicione ao elemento posicionado no lado esquerdo a classe "lado-esquerdo" e ao elemento posicionado no lado direito a classe "lado-direito".
 
+---
 
+[Ir para a lista de projetos](https://github.com/willian-prado/trybe-records)
