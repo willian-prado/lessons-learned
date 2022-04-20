@@ -1,6 +1,6 @@
 ## Projeto Lessons Learned
 
-> Primeiro projeto do módulo de Fundamentos do curso da [Trybe](https://github.com/willian-prado/trybe-records)
+> Primeiro projeto do módulo de Fundamentos do curso da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
