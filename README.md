@@ -1,6 +1,6 @@
 ## Projeto Lessons Learned
 
-> Primeiro projeto do módulo de Fundamentos do curso da [Trybe](https://www.betrybe.com/)
+> Primeiro projeto do módulo de Fundamentos do curso de desenvolvimento web da [Trybe](https://www.betrybe.com/)
 
 **Contexto**
 
