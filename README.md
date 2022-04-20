@@ -1,17 +1,17 @@
 ## Projeto Lessons Learned
 
-> Primeiro projeto do módulo de Fundamentos do curso de desenvolvimento web da Trybe.
+> Primeiro projeto do módulo de Fundamentos do curso da [Trybe](https://github.com/willian-prado/trybe-records)
 
 **Contexto**
 
-Primeiro projeto desenvolvido no curso, aqui precisamos aplicar os conhecimentos adquiridos em aproximadamente duas semanas de estudos.
+Este é o projeto desenvolvido no curso, aqui precisamos aplicar os conhecimentos adquiridos em aproximadamente duas semanas de estudos.
 
 **Objetivo do projeto**
 
 Desenvolver um site que contenha uma série de informações sobre o que foi aprendido na Trybe ao longo de três blocos. \
 O site deve estar com elementos posicionados e estilizados e, além disto, deverá conter semântica apropriada para que seja acessível e melhor ranqueado.
 
-**Principais habilidades desenvolvidas nesse trabalho:**
+**Principais habilidades desenvolvidas nesse trabalho**
 
 * Utilizar _HTML_ para construir páginas WEB.
 * Utilizar _HTML_ semântico para tornar sua página mais acessível e melhor ranqueada.
